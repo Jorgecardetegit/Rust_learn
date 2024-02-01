@@ -1,0 +1,2 @@
+[dependencies]
+opencv = "0.59.0" # Use the latest version available
